@@ -35,9 +35,10 @@ class AboutMe extends React.Component {
                         <p style={{ color: "#fff", width: "500px" }}>
                         A self-motivated sofware engineer with huge knowledge and proficiency
                         in JavaScript, React.js, HTML, CSS, and desktop app development 
-                        as well as strong skills and ability in writing clean and efficient code.
+                        as well as strong skills and ability in writing clean and efficient code.sdklakjldsalkndnslklkns
                         </p>
                         <div className="info_button">
+                            <Button style={{padding:"10px",backgroundColor:"#fff",borderStyle:"none", borderRadius:"12px",width:"100px",fontWeight:"375"}}>Download CV</Button>
                             <Button style={{padding:"10px",backgroundColor:"#fff",borderStyle:"none", borderRadius:"12px",width:"100px",fontWeight:"375"}}>Download CV</Button>
                             <Button style={{padding:"10px",backgroundColor:"#fff",borderStyle:"none", borderRadius:"12px",width:"90px",fontWeight:"375",borderColor:"#000066"}}>Contact Info</Button>
                         </div>
