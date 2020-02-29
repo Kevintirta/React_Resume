@@ -1,0 +1,35 @@
+.square_container{
+    display: inline-block;
+    background-color:  #15C39A;
+    width:90%;
+    height:400px;
+    /* position: static; */
+    margin-top: 50px;
+    padding:0px;
+}
+
+.my_image{
+    background-image: url(../../../Containers/Assets/kevin_photo.png);
+}
+
+
+.info_button Button:hover { 
+    outline: none;
+    border-color:     #006666    ;
+    box-shadow: 0 0 10px    #006666;
+}
+
+/* .about_me{
+    float: left;
+    width: 4%;
+    height:100%;
+    display: inline-block;
+    border-style: dotted;
+} */
+
+/* .about_me{
+    width: 40%;
+    height: 100%;
+    border-style: dotted;
+    float:left;
+} */
